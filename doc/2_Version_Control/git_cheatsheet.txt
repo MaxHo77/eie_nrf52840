@@ -16,3 +16,14 @@ git merge - Merge another branch into the current branch.
 git rebase - Replay commits on another base.
 git log - View commit history.
 git diff - Show differences between versions.
+
+
+Additional Git Notes
+
+git add filename - Stage a specific file.
+git add . - Stage all changes in the current directory and below.
+git status - Check staged and unstaged changes.
+git log --oneline - Show a short commit history.
+git diff --staged - Show staged changes.
+git push -u origin lesson2 - Push lesson2 and set its upstream.
+git push - Push commits to the configured upstream branch.
