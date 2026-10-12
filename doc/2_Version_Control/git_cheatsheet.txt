@@ -1,0 +1,18 @@
+
+Git Command Cheatsheet
+
+git status - Check the current repository status.
+git branch - List local branches.
+git branch lesson2 - Create a new branch.
+git checkout lesson2 - Switch to lesson2.
+git add - Stage files for a commit.
+git commit - Save staged changes.
+git commit -m "message" - Commit with a message.
+git pull - Download and integrate remote changes.
+git push - Upload commits to GitHub.
+git push -u origin lesson2 - Push a new branch.
+git fetch - Download remote updates without merging.
+git merge - Merge another branch into the current branch.
+git rebase - Replay commits on another base.
+git log - View commit history.
+git diff - Show differences between versions.
